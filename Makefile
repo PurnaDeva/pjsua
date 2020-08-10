@@ -1,4 +1,4 @@
-IMAGE_NAME := andrius/pjsua
+IMAGE_NAME := purnadeva/pjsua
 X86_IMAGES := \
 	alpine/latest:latest,alpine-latest \
 	alpine/tmux:tmux,alpine-tmux \
